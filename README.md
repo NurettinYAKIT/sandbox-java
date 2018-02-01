@@ -1,3 +1,7 @@
+#Header 1
+##Header 2
+###Header 3
+
 # sandbox-java
 Sandbox Repository to try and teach something
 ## Code Snippets
@@ -10,5 +14,9 @@ Also included in the snippets project
 - Multithread
 - Design Patterns
 - Examples for new techs
+
+1. Numbering
+2. Numbering
+3. Numbering
 
 **Bold** and _Italic_ and 'Code' text 

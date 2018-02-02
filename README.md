@@ -1,5 +1,5 @@
 
-[https://nurettinyakit.github.io/sandbox-java/]: https://nurettinyakit.github.io/sandbox-java/
+Web site for the repo <https://nurettinyakit.github.io/sandbox-java/>
 
 # sandbox-java
 Sandbox Repository to try and teach something

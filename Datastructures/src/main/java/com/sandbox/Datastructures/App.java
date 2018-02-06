@@ -19,6 +19,9 @@ public class App
         node.insert(6);
         node.insert(7);
         
+        System.out.println("Check 4 : "+node.contains(4));
+        System.out.println("Check 9 : "+node.contains(9));
+        
         node.sortInOrder();
     }
 }

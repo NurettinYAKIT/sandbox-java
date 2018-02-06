@@ -35,4 +35,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void setup() {
+      // TODO Auto-generated method stub
+
+    }
 }

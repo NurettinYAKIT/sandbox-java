@@ -1,4 +1,4 @@
-package sandbox.Snippets;
+package sandbox.snippets;
 
 /**
  * Hello world!
